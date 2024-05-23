@@ -1,2 +1,2 @@
-# MTALAB-stuff
-A page to display the simplle programs implemented in the Laboratory
+## MATLAB stuff
+A page to display the simplle programs implemented in the Controls Laboratory  at the University
